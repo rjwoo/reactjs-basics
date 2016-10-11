@@ -1,5 +1,5 @@
 # reactjs-basics
-This GitHub Repo. features a few simple apps. 
+This GitHub repository features a few simple apps. 
 
 ## awesome_answers.html
 Using React as a client-side, I used AJAX to call on the JSON of another application known as Awesome Answers. The React side renders the questions and answers from the server-side originally built in a Rails framework.
